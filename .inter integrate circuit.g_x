@@ -1,0 +1,35 @@
+<CodeGenerationInfo>
+  <ToolchainSettings>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Compiler_SearchUserPaths</name>
+      <values lines_count="2">
+        <Line>"${ProjDirPath}/Sources"</Line>
+        <Line>"${ProjDirPath}/Generated_Code"</Line>
+      </values>
+    </option>
+  </ToolchainSettings>
+  <GeneratedFilesList>
+    <GeneratedByPE>
+      <File Name="Generated_Code/PTC.h" FileDate="2017-12-11, 16:13:04" FileAge="1513005184647" FileType="45637" CompNumb="9" />
+      <File Name="Generated_Code/IIC.h" FileDate="2017-12-04, 17:27:30" FileAge="1512404850587" FileType="45637" CompNumb="8" />
+      <File Name="Sources/Events.h" FileDate="2017-12-04, 18:24:24" FileAge="1512408264821" FileType="131328" />
+      <File Name="Generated_Code/PTC.c" FileDate="2017-12-11, 16:13:04" FileAge="1513005184654" FileType="45637" CompNumb="9" />
+      <File Name="Generated_Code/IIC.c" FileDate="2017-12-04, 17:27:30" FileAge="1512404850585" FileType="45637" CompNumb="8" />
+      <File Name="Sources/Events.c" FileDate="2017-12-04, 17:27:30" FileAge="1512404850637" FileType="131328" />
+      <File Name="Generated_Code/Cpu.h" FileDate="2017-12-04, 17:27:30" FileAge="1512404850608" FileType="45637" CompNumb="4" />
+      <File Name="Generated_Code/IO_Map.h" FileDate="2017-12-04, 17:27:30" FileAge="1512404850562" FileType="45637" />
+      <File Name="Generated_Code/Cpu.c" FileDate="2017-12-04, 18:24:24" FileAge="1512408264810" FileType="45637" CompNumb="4" />
+      <File Name="Generated_Code/PE_Error.h" FileDate="2017-12-04, 17:27:30" FileAge="1512404850574" FileType="45637" />
+      <File Name="Generated_Code/IO_Map.c" FileDate="2017-12-04, 17:27:30" FileAge="1512404850551" FileType="45637" />
+      <File Name="Sources/main.c" FileDate="2017-12-11, 18:49:14" FileAge="1513014554997" FileType="128" />
+      <File Name="Documentation/inter integrate circuit_Settings.xml" FileDate="2017-12-04, 18:24:24" FileAge="1512408264865" FileType="3072" />
+      <File Name="Generated_Code/PE_Types.h" FileDate="2017-12-04, 17:27:30" FileAge="1512404850581" FileType="45637" />
+      <File Name="Project_Settings/Linker_Files/ProcessorExpert.prm" FileDate="2017-12-04, 17:27:30" FileAge="1512404850619" FileType="8" CompNumb="4" />
+      <File Name="Documentation/inter integrate circuit_SIGNALS.txt" FileDate="2017-12-11, 18:49:15" FileAge="1513014555010" FileType="3072" />
+      <File Name="Generated_Code/Vectors.c" FileDate="2017-12-04, 18:24:24" FileAge="1512408264817" FileType="45637" CompNumb="4" />
+      <File Name="Documentation/inter integrate circuit.txt" FileDate="2017-12-04, 18:24:24" FileAge="1512408264873" FileType="3072" />
+      <File Name="Generated_Code/PE_Const.h" FileDate="2017-12-04, 17:27:30" FileAge="1512404850570" FileType="45637" />
+    </GeneratedByPE>
+  </GeneratedFilesList>
+  <CodeGenReference>5</CodeGenReference>
+</CodeGenerationInfo>
